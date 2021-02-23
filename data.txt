@@ -1,0 +1,27 @@
+0.1 
+0.1 
+4
+4   
+25  
+2   
+700  
+7800 
+300  
+1200 
+100  
+500  
+50
+
+0.1  # H
+0.1  # W
+31    # N_H
+31   # N_B
+25   # Przewodność - k
+2    # schemat całkowania
+700  # ciepło właściwe
+7800 # gęstość
+300  # alfa
+1200 # temperatura otoczenia
+100  # początkowa temperatura
+100  # czas symulacji 
+1    # skok czasowy
